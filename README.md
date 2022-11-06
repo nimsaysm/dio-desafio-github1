@@ -7,4 +7,4 @@ _Repositório criado para o primeiro desafio de projeto sobre Git/GitHub da plat
 
 [Sintaxe básica de .md](https://www.markdownguide.org/basic-syntax/)
 
-[Comandos básicos de Git](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
+[Comandos de Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
